@@ -21,14 +21,14 @@ that you may link with your project later.
 
 ### BASIC TEST
 
-Use `make basic_test` or `sh sha256.c -DSHA256_SELF_TEST__` to compile an
+Use `make basic_test` or `sh hmac-sha256.c -DSHA256_SELF_TEST__` to compile an
 executable binary that will perform a basic test for HMAC-256.
 
 `HMAC("abc", "123") = 8f16771f9f8851b26f4d46fa17de93e2711c7e51337cb8a608af81e1c1b6ae`
 
 ### PERFORMANCE TEST
 
-Use `make performance_test` or `sh sha256.c -DSHA256_PERF_TEST__` to compile an
+Use `make performance_test` or `sh hmac-sha256.c -DSHA256_PERF_TEST__` to compile an
 executable binary that can be used to benchmark our HMAC implementation for different
 input sizes (packet vs headers only)
 
