@@ -1,0 +1,16 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_ipsec.so.23]
+DPDK_23 A
+EXPERIMENTAL A
+rte_ipsec_sad_add T 103f
+rte_ipsec_sad_create T 3f5
+rte_ipsec_sad_del T f45
+rte_ipsec_sad_destroy T a6
+rte_ipsec_sad_find_existing T e8
+rte_ipsec_sad_lookup T 98
+rte_ipsec_sa_fini T e
+rte_ipsec_sa_init T bd8
+rte_ipsec_sa_size T 277
+rte_ipsec_sa_type T 8
+rte_ipsec_session_prepare T 9e
+rte_ipsec_telemetry_sa_add T 4f
+rte_ipsec_telemetry_sa_del T 44

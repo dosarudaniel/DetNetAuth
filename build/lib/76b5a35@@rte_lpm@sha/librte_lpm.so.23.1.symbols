@@ -1,0 +1,21 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_lpm.so.23]
+DPDK_23 A
+EXPERIMENTAL A
+rte_lpm6_add T eed
+rte_lpm6_create T 41c
+rte_lpm6_delete T c25
+rte_lpm6_delete_all T 75
+rte_lpm6_delete_bulk_func T 4cf
+rte_lpm6_find_existing T 6d
+rte_lpm6_free T ae
+rte_lpm6_is_rule_present T 43f
+rte_lpm6_lookup T 9b
+rte_lpm6_lookup_bulk_func T f4
+rte_lpm_add T 298
+rte_lpm_create T 24c
+rte_lpm_delete T 540
+rte_lpm_delete_all T b7
+rte_lpm_find_existing T 75
+rte_lpm_free T b6
+rte_lpm_is_rule_present T 8c
+rte_lpm_rcu_qsbr_add T 1b6

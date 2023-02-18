@@ -1,0 +1,29 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_regexdev.so.23]
+EXPERIMENTAL A
+INTERNAL A
+rte_regexdev_attr_get T a0
+rte_regexdev_attr_set T a0
+rte_regexdev_close T 87
+rte_regexdev_configure T 2f5
+rte_regexdev_count T 30
+rte_regexdev_dump T a3
+rte_regexdev_get_device_by_name T bd
+rte_regexdev_get_dev_id T 7f
+rte_regex_devices B 800
+rte_regexdev_info_get T 97
+rte_regexdev_is_valid_dev T 24
+rte_regexdev_logtype B 4
+rte_regexdev_queue_pair_setup T fd
+rte_regexdev_register T 1f2
+rte_regexdev_rule_db_compile_activate T 74
+rte_regexdev_rule_db_export T 8c
+rte_regexdev_rule_db_import T a0
+rte_regexdev_rule_db_update T a1
+rte_regexdev_selftest T 77
+rte_regexdev_start T 82
+rte_regexdev_stop T 80
+rte_regexdev_unregister T c
+rte_regexdev_xstats_by_name_get T dc
+rte_regexdev_xstats_get T cb
+rte_regexdev_xstats_names_get T a0
+rte_regexdev_xstats_reset T a1

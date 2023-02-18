@@ -1,0 +1,20 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_security.so.23]
+DPDK_23 A
+EXPERIMENTAL A
+INTERNAL A
+rte_security_capabilities_get T 23
+rte_security_capability_get T bb
+rte_security_dynfield_offset D 4
+rte_security_dynfield_register T 22
+rte_security_macsec_sa_create T 4e
+rte_security_macsec_sa_destroy T 50
+rte_security_macsec_sa_stats_get T 3a
+rte_security_macsec_sc_create T 4e
+rte_security_macsec_sc_destroy T 50
+rte_security_macsec_sc_stats_get T 3a
+rte_security_session_create T 2cf
+rte_security_session_destroy T 163
+rte_security_session_get_size T 3b
+rte_security_session_stats_get T 37
+rte_security_session_update T 3c
+__rte_security_set_pkt_metadata T 1c

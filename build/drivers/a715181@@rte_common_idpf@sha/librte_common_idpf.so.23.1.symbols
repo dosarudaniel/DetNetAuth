@@ -1,0 +1,8 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_common_idpf.so.23]
+idpf_ctlq_clean_sq T ff
+idpf_ctlq_deinit T 3c
+idpf_ctlq_init T c8
+idpf_ctlq_post_rx_buffs T 19b
+idpf_ctlq_recv T 185
+idpf_ctlq_send T 17e
+INTERNAL A

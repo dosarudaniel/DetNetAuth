@@ -1,0 +1,8 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_common_iavf.so.23]
+iavf_aq_send_msg_to_pf T e1
+iavf_clean_arq_element T 62f
+iavf_init_adminq T 10c
+iavf_set_mac_type T 9d
+iavf_shutdown_adminq T 37
+iavf_vf_parse_hw_config T 6e
+INTERNAL A

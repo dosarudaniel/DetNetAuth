@@ -1,0 +1,13 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_ip_frag.so.23]
+DPDK_23 A
+EXPERIMENTAL A
+rte_ip_frag_free_death_row T aa
+rte_ip_frag_table_create T b3
+rte_ip_frag_table_del_expired_entries T 259
+rte_ip_frag_table_destroy T 1f5
+rte_ip_frag_table_statistics_dump T 46
+rte_ipv4_fragment_copy_nonseg_packet T 70a
+rte_ipv4_fragment_packet T a05
+rte_ipv4_frag_reassemble_packet T 171
+rte_ipv6_fragment_packet T 745
+rte_ipv6_frag_reassemble_packet T 181
