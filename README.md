@@ -13,6 +13,8 @@ HMAC SHA-256 secure hash algorithm defined in [FIPS 198-1](https://nvlpubs.nist.
 This implementation supports `clang` (recommended).
 Other compilers may also work with some minor code tweaking. 
 
+`cd hmac-sha256`
+
 Use `make` or `sh hmac-sha256.c -c -o hmac-sha256.o` to compile into an object file
 that you may link with your project later.
 
